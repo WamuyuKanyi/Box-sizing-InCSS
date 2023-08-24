@@ -1,4 +1,4 @@
-
+/* Border-sizing: This property allos us to include the padding and border in an elements total width and height */
 *{
   margin: 0;
   padding: 0;
@@ -13,13 +13,11 @@
 .box1{
   background-color: red;
   padding: 20px;
-
   box-sizing: border-box ;
 }
 
 .box2{
   background-color: blue;
-
 }
 
 .box3{
